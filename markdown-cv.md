@@ -1,6 +1,7 @@
 # <p style="text-align: center;">Omar Banat</p>
 
 <p style="text-align: center;">Beirut, Lebanon | +961 76 843 642 | o.j.banat@gmail.com</p>
+<img width="100" src="profile.jpg">
 
 ## Work Experience
 
